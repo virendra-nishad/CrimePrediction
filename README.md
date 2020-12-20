@@ -14,3 +14,7 @@
 
 ## Running program
 - predict.sh will run the entire program
+
+## Output
+- Plot for each crimes saved in a root folder
+- prediction for each crime will be saved in a 3 separate csv file for district, state, country
